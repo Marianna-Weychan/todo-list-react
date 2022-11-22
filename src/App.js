@@ -26,7 +26,7 @@ function App() {
           <Tasks tasks={tasks} hideDone={hideDone} />
         }
         extraHeaderContent={
-          <Buttons task={tasks} hideDone={hideDone} />
+          <Buttons tasks={tasks} hideDone={hideDone} />
         }
       />
     </Container>
