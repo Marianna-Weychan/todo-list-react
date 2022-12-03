@@ -17,7 +17,7 @@ I created this application as part of learning programming at YouCode school.
 - HTML,
 - CSS,
 - BEM convention,
-- JAVA SCRIPT ES6,
+- JAVASCRIPT ES6,
 - GIT
 - FLEX
 - MEDIA QUERIES
