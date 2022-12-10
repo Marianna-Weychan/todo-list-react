@@ -23,7 +23,6 @@ const Form = ({ addNewTask }) => {
         <StyledForm onSubmit={onFormSubmit}>
             <Input
                 value={newTaskContent}
-                className="form__input"
                 name="task"
                 autoFocus
                 ref={inputRef}
