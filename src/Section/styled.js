@@ -15,7 +15,7 @@ export const SectionHeader = styled.header`
     font-size: 20px;
     padding: 20px;
 
- @media (max-width: 767px) {
+   @media(max-width:${({ theme }) => theme.breakpoint.mobile}px) {
     grid-template-columns: 1fr;
     }
 `;
