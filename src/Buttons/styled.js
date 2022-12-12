@@ -19,7 +19,11 @@ export const StyledButton = styled.button`
     }
    
 &:hover {
-   color: ${({ theme }) => theme.colors.bondiBlue};
+   filter: brightness(130%);
+}
+
+&:active {
+    filter: brightness(160%);
 }
 
 &:disabled {
