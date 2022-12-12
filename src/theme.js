@@ -11,6 +11,7 @@ export const theme = {
         milanoRed: "#C60C0C",
         mandy: "#E15656",
         mandysPink: "#F4C7C7",
+        gallery: "#EEEEEE",
     },
 
     breakpoint: {
