@@ -40,10 +40,11 @@ ${({ toggleDone }) => toggleDone && css`
     transition: 1s;
 
 	&:hover {
-	background-color: ${({ theme }) => theme.colors.green};
+		filter: brightness(120%);
 		 }
+
 	&:active {
-	background-color: ${({ theme }) => theme.colors.mintGreen};
+		filter: brightness(140%);
 		 }
 		`}
 
@@ -52,11 +53,11 @@ ${({ remove }) => remove && css`
     transition: 1s;
 
 	&:hover {
-	background-color: ${({ theme }) => theme.colors.mandy};
+	filter: brightness(120%);
 		 }
 
 	&:active {
-	background-color: ${({ theme }) => theme.colors.mandysPink};
+	filter: brightness(140%);
 				  }
 		`}
 `;
