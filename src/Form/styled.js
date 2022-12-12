@@ -22,11 +22,11 @@ export const Button = styled.button`
         transition: 0.3s;
 
 &:hover {
-        background-color: ${({ theme }) => theme.colors.java};
+        filter: brightness(130%);
         transform: scale(1.1);
 
 &:active {
-        background-color: ${({ theme }) => theme.colors.viking};
+         filter: brightness(150%);
 }}
 `;
 
