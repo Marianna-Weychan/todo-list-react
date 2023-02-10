@@ -24,6 +24,7 @@ I created this application as part of learning programming at YouCode school.
 - GRID
 - MARKDOWN
 - CREATE REACT APP (HOOKS, HANDLING EVENTS, STYLED COMPONENTS, STYLED ICONS)
+- REACT + REDUX
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
