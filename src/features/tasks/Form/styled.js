@@ -20,13 +20,14 @@ export const Button = styled.button`
         border: none;
         color: ${({ theme }) => theme.colors.white};
         transition: 0.3s;
+        cursor: pointer;
 
-&:hover {
-        filter: brightness(130%);
-        transform: scale(1.1);
+        &:hover {
+                filter: brightness(130%);
+                transform: scale(1.1);
 
-&:active {
-         filter: brightness(150%);
-}}
+        &:active {
+                filter: brightness(150%);
+        }}
 `;
 
