@@ -1,18 +1,18 @@
 import { createGlobalStyle } from "styled-components";
 
 export const GlobalStyle = createGlobalStyle`
-html {
-  box-sizing: border-box;
-}
+        html {
+          box-sizing: border-box;
+        }
 
-*,
-::after,
-::before {
-  box-sizing: inherit;
-}
+        *,
+        ::after,
+        ::before {
+          box-sizing: inherit;
+        }
 
-body {
-  font-family: 'Lato', sans-serif;
-  background-color: ${({ theme }) => theme.colors.gallery};
-}
-`;
+        body {
+          font-family: 'Lato', sans-serif;
+          background-color: ${({ theme }) => theme.colors.gallery};
+        }
+        `;
