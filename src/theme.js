@@ -5,6 +5,7 @@ export const theme = {
         parsley: "#18671F",
         milanoRed: "#C60C0C",
         gallery: "#EEEEEE",
+        iron: "#D6DBDB",
     },
 
     breakpoint: {
