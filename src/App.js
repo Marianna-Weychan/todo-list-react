@@ -19,7 +19,7 @@ export default () => (
                 <AuthorPage />
             </Route>
             <Route path="/">
-                <Redirect to={toTasks} />
+                <Redirect to={toTasks()} />
             </Route>
         </Switch>
     </HashRouter >
