@@ -6,6 +6,8 @@ export const theme = {
         milanoRed: "#C60C0C",
         gallery: "#EEEEEE",
         iron: "#D6DBDB",
+        carrotOrange: "#F09824",
+        turquoise: "#31DDDD",
     },
 
     breakpoint: {

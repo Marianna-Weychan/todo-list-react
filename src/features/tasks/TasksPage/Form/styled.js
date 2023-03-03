@@ -9,11 +9,6 @@ export const StyledForm = styled.form`
         grid-template-columns: 1fr;
     }`;
 
-export const Input = styled.input`
-        border: 1px solid #ddd;
-        padding: 10px;
-`;
-
 export const Button = styled.button`
         padding: 10px;
         background-color: ${({ theme }) => theme.colors.teal};
