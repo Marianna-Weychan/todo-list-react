@@ -8,7 +8,8 @@
 
 ## ⌨️ Short description
 
-A simple to-do list app. It allows you to save the activities that you have to do, select and/or hide all completed activities or completely remove them from the list after completing them.
+A simple to-do list app. It allows you to save the actions you have to do, select and/or hide all the actions you have done, or completely remove them from the list after they are done.
+In addition, the application allows you to download sample tasks and check the details of each of them.
 
 I created this application as part of learning programming at YouCode school.
 
@@ -18,13 +19,17 @@ I created this application as part of learning programming at YouCode school.
 - CSS,
 - BEM convention,
 - JAVASCRIPT ES6,
-- GIT
-- FLEX
-- MEDIA QUERIES
-- GRID
-- MARKDOWN
-- CREATE REACT APP (HOOKS, HANDLING EVENTS, STYLED COMPONENTS, STYLED ICONS)
-- REACT + REDUX
+- GIT,
+- FLEX,
+- MEDIA QUERIES,
+- GRID,
+- MARKDOWN,
+- CREATE REACT APP (HOOKS, HANDLING EVENTS, STYLED COMPONENTs),
+- REACT,
+- REDUX,
+- REDUX-SAGA,
+- @REDUXJS/TOOLKIT.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
