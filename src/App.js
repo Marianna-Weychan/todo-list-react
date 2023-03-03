@@ -15,7 +15,7 @@ export default () => (
             <Route path={toTasks()}>
                 <TasksPage />
             </Route>
-            <Route path={toAuthor}>
+            <Route path={toAuthor()}>
                 <AuthorPage />
             </Route>
             <Route path="/">
