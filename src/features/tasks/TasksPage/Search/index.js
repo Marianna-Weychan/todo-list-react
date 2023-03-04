@@ -1,6 +1,6 @@
 import Input from "../../Input";
 import searchQueryParamName from "../../TasksPage/searchQueryParamName";
-import { useQueryPatrameter, useReplaceQueryParameter } from "../queryParameters";
+import { useQueryPatrameter, useReplaceQueryParameter } from "../../TaskPage/queryParameters";
 import { Wrapper } from "./styled";
 
 export default () => {

@@ -4,7 +4,7 @@ import Buttons from "./Buttons";
 import Section from "../../../common/Section";
 import Header from "../../../common/Header";
 import Container from "../../../common/Container";
-import Search from "../TaskPage/Search";
+import Search from "../TasksPage/Search";
 import FetchExampleTasksButton from "./FetchExampleTasksButton";
 
 function TasksPage() {

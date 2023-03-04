@@ -1,13 +1,13 @@
 import styled from "styled-components";
 
-export const StyledButton = styled.button`
+export default styled.button`
     background-color: transparent;
     color: ${({ theme }) => theme.colors.teal};
     border: none;
     margin: 0 0 0 20px;
     transition: 0.3s;
     cursor: pointer;
-    font-size: 10px;
+    font-size: 15px;
     
 @media(max-width: ${({ theme }) => theme.breakpoint.mobile}px) {
     flex-basis: 100%;
