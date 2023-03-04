@@ -1,10 +1,9 @@
-import Container from "../../common/Container";
-import Header from "../../common/Header";
-import Section from "../../common/Section";
+import Container from "../../../common/Container";
+import Header from "../../../common/Header";
+import Section from "../../../common/Section";
 import { Description, Image, Link, YouCode } from "./styled";
 import { Wrapper } from "./styled";
 import image from "./Marianna.jpg";
-
 
 export default () => (
 	<Container>
